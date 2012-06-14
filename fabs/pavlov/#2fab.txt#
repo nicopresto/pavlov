@@ -1,0 +1,48 @@
+sudo apt-get install emacs
+83.3 MB
+
+sudo apt-get install vim
+27.1 MB 
+
+sudo apt-get install g++
+60.2 MB
+
+sudo apt-get install cmake
+14.7 MB
+
+sudo apt-get install doxygen
+114 MB
+
+sudo apt-get install bzr
+26.7 MB
+
+sudo apt-get install git
+12 MB
+
+sudo apt-get install mercurial
+5MB
+
+sudo apt-get install subversion
+6MB
+
+sudo apt-get install diff
+36Kb
+
+sudo apt-get install colordiff
+111Kb
+
+sudo apt-get install patch
+already installed
+
+sudo apt-get install meld
+48.3MB
+
+sudo apt-get install python-pygame
+23.2MB
+
+wget http://www.web2py.com/examples/static/web2py_src.zip
+unzip web2py_src.zip
+25MB
+
+sudo apt-get autoremove
+sudo apt-get clean
