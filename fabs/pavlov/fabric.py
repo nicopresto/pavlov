@@ -42,6 +42,10 @@ def clean():
     run("sudo apt-get autoremove")
     run("sudo apt-get clean")
 
+def scipy():
+    run("sudo apt-get install libfreetype6-dev")
+    run("sudo pip install numpy scipy")
+
 def basic():
     update_repos()
     install_core()
