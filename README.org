@@ -1,3 +1,0 @@
-* PAVLOV
-
-Personal Analytical Virtual Lab on VM
