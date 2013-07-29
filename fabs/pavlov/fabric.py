@@ -69,6 +69,7 @@ def configure_python():
     run("sudo pip install ipython")
     run("sudo pip install tornado")
     run("sudo apt-get install uuid-dev")
+    run("sudo apt-get install libfreetype6-dev")
     run("wget http://download.zeromq.org/zeromq-2.2.0.tar.gz  && tar xvfz zeromq-2.2.0.tar.gz")
     run("cd zeromq-2.2.0 && ./configure && make && sudo make install")
     run("sudo apt-get install pyzmq")
